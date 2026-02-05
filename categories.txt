@@ -1,0 +1,8 @@
+Chicken|C:\Users\HP\OneDrive\Documents\RecipeFinderApp\chicken.png
+Vegetarian|C:\Users\HP\OneDrive\Documents\RecipeFinderApp\vegetarian.png
+Seafoods|C:\Users\HP\OneDrive\Documents\RecipeFinderApp\seafood.png
+Noodles|C:\Users\HP\OneDrive\Documents\RecipeFinderApp\noodles.png
+Soups|C:\Users\HP\OneDrive\Documents\RecipeFinderApp\soups.png
+Rice|C:\Users\HP\OneDrive\Documents\RecipeFinderApp\rice.png
+Deserts|C:\Users\HP\OneDrive\Documents\RecipeFinderApp\desert.png
+Sandwich|C:\Users\HP\OneDrive\Documents\RecipeFinderApp\sandwich.png
